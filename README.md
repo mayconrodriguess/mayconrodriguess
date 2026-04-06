@@ -51,12 +51,6 @@ Entre os temas mais recorrentes do meu material estao:
 - `firewall-and-network-runbooks`  
   Runbooks tecnicos sobre rede, firewall, acessos e procedimentos operacionais sem dados sensiveis.
 
-- `certificados-e-ssl`  
-  Guias e automatizacoes relacionadas a emissao, renovacao, validacao e organizacao de certificados.
-
-- `operacao-e-documentacao-ti`  
-  Modelos, fluxos e padroes de documentacao tecnica usados para organizar atividades e processos.
-
 - `ai-agents-lab`  
   Projetos com agentes de IA para automacao de tarefas tecnicas, suporte operacional, organizacao de conhecimento e produtividade.
 
@@ -73,14 +67,3 @@ Entre os temas mais recorrentes do meu material estao:
 
 Meu objetivo no GitHub e transformar experiencia pratica em portfolio tecnico.
 Quero reunir aqui repositorios e projetos que mostrem como eu documento, organizo, automatizo e resolvo problemas em ambientes reais.
-
-## Importante antes de publicar novos repositorios
-
-Antes de subir materiais corporativos para o GitHub, vou sempre remover:
-
-- senhas, tokens e credenciais
-- IPs internos, dominios e nomes sensiveis
-- nomes de clientes, servidores e chamados
-- planilhas e documentos com dados privados
-
-Assim, o portfolio mostra a experiencia tecnica sem expor informacoes confidenciais.
