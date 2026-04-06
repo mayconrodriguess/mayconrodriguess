@@ -1,4 +1,4 @@
-# MayconSecOps | IA, Security Engineering, Platform Engineering e Automação
+ # maySecIAOps | IAOps, DevSecOps, e Automação
 
 Transformo troubleshooting, operação e automação em documentação técnica, scripts reutilizáveis e projetos de infraestrutura.
 
@@ -75,14 +75,3 @@ Entre os temas mais recorrentes do meu material estão:
 
 Meu objetivo no GitHub é transformar experiência prática em portfólio técnico.
 Quero reunir aqui repositórios e projetos que mostrem como eu documento, organizo, automatizo e resolvo problemas em ambientes reais.
-
-## Importante antes de publicar novos repositórios
-
-Antes de publicar materiais corporativos no GitHub, vou sempre remover:
-
-- senhas, tokens e credenciais
-- IPs internos, domínios e nomes sensíveis
-- nomes de clientes, servidores e chamados
-- planilhas e documentos com dados privados
-
-Assim, o portfólio mostra a experiência técnica sem expor informações confidenciais.
