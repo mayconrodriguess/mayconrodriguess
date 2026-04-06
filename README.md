@@ -63,14 +63,6 @@ Entre os temas mais recorrentes do meu material estão:
 - [automation-with-ai](https://github.com/mayconrodriguess/automation-with-ai)  
   Integração entre scripts, automações tradicionais e recursos de IA para gerar fluxos mais inteligentes e assistidos.
 
-## Em preparação
-
-- `certificados-e-ssl`  
-  Guias e automatizações relacionadas à emissão, renovação, validação e organização de certificados.
-
-- `operacao-e-documentacao-ti`  
-  Modelos, fluxos e padrões de documentação técnica usados para organizar atividades e processos.
-
 ## Objetivo desta página
 
 Meu objetivo no GitHub é transformar experiência prática em portfólio técnico.
