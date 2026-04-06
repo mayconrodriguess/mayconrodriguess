@@ -1,4 +1,4 @@
-# MayconSecOps | IA, Segurança, Infraestrutura, Redes, Automacao
+# MayconSecOps | IA, Segurança, DevSecOps, Automação
 
 Transformo troubleshooting, operacao e automacao em documentacao tecnica, scripts reutilizaveis e projetos de infraestrutura.
 
