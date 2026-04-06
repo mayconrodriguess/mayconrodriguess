@@ -1,4 +1,4 @@
-# MayconSecOps | IA, Segurança, DevSecOps, Automação
+# MayconSecOps | IA, Seguranca, Infraestrutura, Redes, Automacao
 
 Transformo troubleshooting, operacao e automacao em documentacao tecnica, scripts reutilizaveis e projetos de infraestrutura.
 
@@ -37,33 +37,52 @@ Entre os temas mais recorrentes do meu material estao:
 - procedimentos tecnicos para onboarding, acessos e operacao
 - documentacao de certificados, logs, inventario e melhorias de ambiente
 
-## Projetos que estou estruturando para publicar
+## Repositorios e projetos em destaque
 
-- `infra-tshoot-playbooks`  
+- [infra-tshoot-playbooks](https://github.com/mayconrodriguess/infra-tshoot-playbooks)  
   Colecao de playbooks e procedimentos tecnicos para troubleshooting e operacao de infraestrutura.
 
-- `powershell-ad-gpo-dns`  
+- [powershell-ad-gpo-dns](https://github.com/mayconrodriguess/powershell-ad-gpo-dns)  
   Scripts e exemplos de automacao para Active Directory, GPO, DNS e validacoes administrativas.
 
-- `linux-monitoring-scripts`  
+- [linux-monitoring-scripts](https://github.com/mayconrodriguess/linux-monitoring-scripts)  
   Scripts operacionais para Linux, checagens, monitoramento e manutencao.
 
-- `firewall-and-network-runbooks`  
+- [firewall-and-network-runbooks](https://github.com/mayconrodriguess/firewall-and-network-runbooks)  
   Runbooks tecnicos sobre rede, firewall, acessos e procedimentos operacionais sem dados sensiveis.
 
-- `ai-agents-lab`  
+- [ai-agents-lab](https://github.com/mayconrodriguess/ai-agents-lab)  
   Projetos com agentes de IA para automacao de tarefas tecnicas, suporte operacional, organizacao de conhecimento e produtividade.
 
-- `skills-and-prompts`  
+- [skills-and-prompts](https://github.com/mayconrodriguess/skills-and-prompts)  
   Colecao de Skills, prompts estruturados, fluxos reutilizaveis e guias para uso pratico de IA no dia a dia tecnico.
 
-- `ia-para-infra-e-seguranca`  
+- [ia-para-infra-e-seguranca](https://github.com/mayconrodriguess/ia-para-infra-e-seguranca)  
   Experimentos e ferramentas com IA aplicadas a infraestrutura, troubleshooting, analise tecnica, documentacao e apoio a operacoes SOC.
 
-- `automation-with-ai`  
+- [automation-with-ai](https://github.com/mayconrodriguess/automation-with-ai)  
   Integracao entre scripts, automacoes tradicionais e recursos de IA para gerar fluxos mais inteligentes e assistidos.
+
+## Em preparacao
+
+- `certificados-e-ssl`  
+  Guias e automatizacoes relacionadas a emissao, renovacao, validacao e organizacao de certificados.
+
+- `operacao-e-documentacao-ti`  
+  Modelos, fluxos e padroes de documentacao tecnica usados para organizar atividades e processos.
 
 ## Objetivo desta pagina
 
 Meu objetivo no GitHub e transformar experiencia pratica em portfolio tecnico.
 Quero reunir aqui repositorios e projetos que mostrem como eu documento, organizo, automatizo e resolvo problemas em ambientes reais.
+
+## Importante antes de publicar novos repositorios
+
+Antes de subir materiais corporativos para o GitHub, vou sempre remover:
+
+- senhas, tokens e credenciais
+- IPs internos, dominios e nomes sensiveis
+- nomes de clientes, servidores e chamados
+- planilhas e documentos com dados privados
+
+Assim, o portfolio mostra a experiencia tecnica sem expor informacoes confidenciais.
