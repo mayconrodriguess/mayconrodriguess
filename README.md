@@ -39,17 +39,7 @@ Entre os temas mais recorrentes do meu material estão:
 
 ## Repositórios e projetos em destaque
 
-- [infra-tshoot-playbooks](https://github.com/mayconrodriguess/infra-tshoot-playbooks)  
-  Coleção de playbooks e procedimentos técnicos para troubleshooting e operação de infraestrutura.
-
-- [powershell-ad-gpo-dns](https://github.com/mayconrodriguess/powershell-ad-gpo-dns)  
-  Scripts e exemplos de automação para Active Directory, GPO, DNS e validações administrativas.
-
-- [linux-monitoring-scripts](https://github.com/mayconrodriguess/linux-monitoring-scripts)  
-  Scripts operacionais para Linux, checagens, monitoramento e manutenção.
-
-- [firewall-and-network-runbooks](https://github.com/mayconrodriguess/firewall-and-network-runbooks)  
-  Runbooks técnicos sobre rede, firewall, acessos e procedimentos operacionais sem dados sensíveis.
+- [Prompt-Engineering-Guide](https://github.com/mayconrodriguess/Prompt-Engineering-Guide/tree/main)
 
 - [ai-agents-lab](https://github.com/mayconrodriguess/ai-agents-lab)  
   Projetos com agentes de IA para automação de tarefas técnicas, suporte operacional, organização de conhecimento e produtividade.
@@ -62,6 +52,18 @@ Entre os temas mais recorrentes do meu material estão:
 
 - [automation-with-ai](https://github.com/mayconrodriguess/automation-with-ai)  
   Integração entre scripts, automações tradicionais e recursos de IA para gerar fluxos mais inteligentes e assistidos.
+  
+- [infra-tshoot-playbooks](https://github.com/mayconrodriguess/infra-tshoot-playbooks)  
+  Coleção de playbooks e procedimentos técnicos para troubleshooting e operação de infraestrutura.
+
+- [powershell-ad-gpo-dns](https://github.com/mayconrodriguess/powershell-ad-gpo-dns)  
+  Scripts e exemplos de automação para Active Directory, GPO, DNS e validações administrativas.
+
+- [linux-monitoring-scripts](https://github.com/mayconrodriguess/linux-monitoring-scripts)  
+  Scripts operacionais para Linux, checagens, monitoramento e manutenção.
+
+- [firewall-and-network-runbooks](https://github.com/mayconrodriguess/firewall-and-network-runbooks)  
+  Runbooks técnicos sobre rede, firewall, acessos e procedimentos operacionais sem dados sensíveis.
 
 ## Objetivo desta página
 
