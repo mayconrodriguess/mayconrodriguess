@@ -1,4 +1,4 @@
-# maySecIAOps | IAOps, DevSecOps, e Automação
+# maySecIAOps | IAOps, DevSecOps e Automação
 
 Transformo troubleshooting, operação e automação em documentação técnica, scripts reutilizáveis e projetos de infraestrutura.
 
