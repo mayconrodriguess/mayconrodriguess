@@ -2,6 +2,8 @@
 
 Transformo troubleshooting, segurança e automação em documentação técnica, scripts reutilizáveis e projetos de infraestrutura.
 
+> Cybersecurity, infraestrutura, automação e IA aplicadas a operações técnicas reais.
+
 ## Sobre mim
 
 Sou profissional de tecnologia com foco em Cybersecurity, infraestrutura, redes, automação e desenvolvimento de ferramentas apoiadas por IA.
@@ -9,12 +11,23 @@ Ao longo da minha trajetória, atuei com documentação técnica, troubleshootin
 
 Esta página funciona como meu currículo técnico no GitHub: centralizo aqui repositórios, estudos, automações e projetos que representam minha experiência prática.
 
+## Foco atual
+
+- automação técnica com IA
+- agentes, skills e fluxos assistidos
+- troubleshooting e documentação operacional
+- segurança aplicada à infraestrutura e operações
+
 ## O que você encontra aqui
 
 - Repositórios com estudos, scripts e documentação técnica
 - Projetos organizados por tema e objetivo
 - Materiais de automação, troubleshooting e segurança
 - Histórico de aprendizado em infraestrutura, segurança e IA aplicada
+
+## Domínios técnicos
+
+`Cybersecurity` `IAOps` `DevSecOps` `PowerShell` `Bash` `Windows` `Linux` `Active Directory` `GPO` `DNS` `Observabilidade` `Troubleshooting`
 
 ## Áreas de atuação
 
@@ -39,6 +52,8 @@ Entre os temas mais recorrentes do meu material estão:
 
 ## Repositórios e projetos em destaque
 
+### IA, agentes e prompting
+
 - [Prompt-Engineering-Guide](https://github.com/mayconrodriguess/Prompt-Engineering-Guide)  
   Guia e repositório de referência para estudos sobre prompt engineering.
 
@@ -53,6 +68,8 @@ Entre os temas mais recorrentes do meu material estão:
 
 - [automation-with-ai](https://github.com/mayconrodriguess/automation-with-ai)  
   Integração entre scripts, automações tradicionais e recursos de IA para gerar fluxos mais inteligentes e assistidos.
+
+### Infraestrutura, operação e troubleshooting
 
 - [infra-tshoot-playbooks](https://github.com/mayconrodriguess/infra-tshoot-playbooks)  
   Coleção de playbooks e procedimentos técnicos para troubleshooting e operação de infraestrutura.
