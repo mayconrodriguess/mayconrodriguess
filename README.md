@@ -1,6 +1,6 @@
 # maySecIAOps | IAOps, DevSecOps e Automação
 
-Transformo troubleshooting, operação e automação em documentação técnica, scripts reutilizáveis e projetos de infraestrutura.
+Transformo troubleshooting, segurança e automação em documentação técnica, scripts reutilizáveis e projetos de infraestrutura.
 
 ## Sobre mim
 
@@ -39,7 +39,8 @@ Entre os temas mais recorrentes do meu material estão:
 
 ## Repositórios e projetos em destaque
 
-- [Prompt-Engineering-Guide](https://github.com/mayconrodriguess/Prompt-Engineering-Guide/tree/main)
+- [Prompt-Engineering-Guide](https://github.com/mayconrodriguess/Prompt-Engineering-Guide)  
+  Guia e repositório de referência para estudos sobre prompt engineering.
 
 - [ai-agents-lab](https://github.com/mayconrodriguess/ai-agents-lab)  
   Projetos com agentes de IA para automação de tarefas técnicas, suporte operacional, organização de conhecimento e produtividade.
@@ -52,7 +53,7 @@ Entre os temas mais recorrentes do meu material estão:
 
 - [automation-with-ai](https://github.com/mayconrodriguess/automation-with-ai)  
   Integração entre scripts, automações tradicionais e recursos de IA para gerar fluxos mais inteligentes e assistidos.
-  
+
 - [infra-tshoot-playbooks](https://github.com/mayconrodriguess/infra-tshoot-playbooks)  
   Coleção de playbooks e procedimentos técnicos para troubleshooting e operação de infraestrutura.
 
