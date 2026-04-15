@@ -27,7 +27,7 @@ Esta página funciona como meu currículo técnico no GitHub: centralizo aqui re
 
 ## Domínios técnicos
 
-`Cybersecurity` `IAOps` `DevSecOps` `PowerShell` `Bash` `Windows` `Linux` `Active Directory` `GPO` `DNS` `Observabilidade` `Troubleshooting`
+`Cybersecurity` `IAOps` `Agent Skills` `Hooks` `RAG, MCP, A2A` `SDD · TDD · BMAD` `DevSecOps` `PowerShell` `Bash` `Windows` `Linux` `Active Directory` `GPO` `DNS` `Observabilidade` `Troubleshooting`
 
 ## Áreas de atuação
 
