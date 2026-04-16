@@ -6,10 +6,7 @@ Transformo troubleshooting, segurança e automação em documentação técnica,
 
 ## Sobre mim
 
-Sou profissional de tecnologia com foco em Cybersecurity, infraestrutura, redes, automação e desenvolvimento de ferramentas apoiadas por IA.
-Ao longo da minha trajetória, atuei com documentação técnica, troubleshooting, padronização de processos e suporte a ambientes corporativos com Windows, Linux, operações de NOC e ambientes SOC.
-
-Esta página funciona como meu currículo técnico no GitHub: centralizo aqui repositórios, estudos, automações e projetos que representam minha experiência prática.
+CEO da MRS Soluções Integradas | Especialista em Tecnologia & Cybersecurity | Construo operações com IA que entregam resultado real com segurança embarcada. Automações, Agentes, Agent Skills & Hooks, RAG, MCP, A2A. Desenvolvimento com SDD, TDD, BMAD e Speckit. Do negócio enxuto de uma pessoa às soluções corporativas a mesma disciplina: tecnologia aplicada com responsabilidade.
 
 ## Foco atual
 
@@ -29,26 +26,21 @@ Esta página funciona como meu currículo técnico no GitHub: centralizo aqui re
 
 `Cybersecurity` `IAOps` `Agent Skills` `Hooks` `RAG, MCP, A2A` `SDD · TDD · BMAD` `DevSecOps` `PowerShell` `Bash` `Windows` `Linux` `Active Directory` `GPO` `DNS` `Observabilidade` `Troubleshooting`
 
-## Áreas de atuação
+## Experiência aplicada
 
-- Troubleshooting em ambientes Windows e Linux
-- Active Directory, GPO, DNS e rotinas administrativas
-- Automação com PowerShell, Bash e scripts operacionais
-- Monitoramento, validação de agentes e observabilidade
-- Firewall, certificados SSL, controles de acesso e operação de infraestrutura
-- Documentação técnica, procedimentos operacionais e padronização
-- Agentes de IA, skills, automações assistidas e organização de fluxos inteligentes
+Transformando sua ideia em realidade.
 
-## Experiência aplicada em projetos
+Como CEO da MRS Soluções Integradas, lidero soluções que unem Tecnologia, Cybersecurity, IA e Automação para quem precisa de resultado real em produção. Estruturo operações com segurança embarcada desde a concepção. Entrego automações, agentes autônomos e serviços que reduzem custo, eliminam retrabalho e escalam sem grandes equipes.
 
-Grande parte do meu acervo técnico foi construída em ambientes corporativos com foco em operação, suporte, melhoria contínua e documentação.
-Entre os temas mais recorrentes do meu material estão:
+Além da operação, crio conteúdo técnico no canal MRS Tech Pro no YouTube, compartilhando como usar IA, automações e tecnologia de forma prática, segura e profissional.
 
-- automação e validação de tarefas em ambiente Windows
-- organização de procedimentos para Active Directory, GPO e DNS
-- troubleshooting de Linux, rede, firewall e monitoramento
-- procedimentos técnicos para onboarding, acessos e operação
-- documentação de certificados, logs, inventário e melhorias de ambiente
+Habilidades e Tecnologias
+
+ - Inteligência Artificial Aplicada: Arquitetura de agentes autônomos com Agent Skills e Hooks, integração via RAG, MCP e A2A, orquestração de fluxos com LLMs locais e em nuvem
+- Automação e RPA: Desenvolvimento de automações operacionais, fluxos de atendimento, qualificação e produtividade com baixo custo de manutenção
+- Desenvolvimento e Qualidade: Metodologias SDD, TDD, BMAD e Speckit, versionamento com Git, padrões de projeto Singleton, Factory, Strategy e Observer, arquitetura em camadas
+- Cybersecurity: Segurança embarcada em soluções de IA, proteção de dados, mascaramento e minimização de dados, governança de IA, LGPD aplicada, gestão de risco em ambientes automatizados
+- Gestão e Liderança: Entrega de serviços para clientes, estruturação de operações enxutas, treinamento de equipes e documentação técnica
 
 ## Repositórios e projetos em destaque
 
